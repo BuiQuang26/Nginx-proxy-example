@@ -1,6 +1,6 @@
 # Run-react-app-on-nginx-proxy-example
 
-- envairoment linux ubuntu
+- run on environment linux ubuntu
 
 ## install nginx
 
